@@ -49,7 +49,6 @@ const obj3: MyType2 = {
     }
 }
 
-
 export {
 
 }
