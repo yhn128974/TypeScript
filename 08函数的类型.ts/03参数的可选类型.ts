@@ -2,9 +2,7 @@
 
 // }
 
-function getinfo(username: string, age?: number) {
-    
-}
+function getinfo(username: string, age?: number) {}
 
-getinfo(`longyou`, 20)
-getinfo(`longyou`)
+getinfo(`longyou`, 20);
+getinfo(`longyou`);

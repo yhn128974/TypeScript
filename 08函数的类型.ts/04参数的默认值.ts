@@ -4,10 +4,8 @@
 //     console.log(x, y);
 // }
 
-
 function foo(x: number = 20, y: number = 100) {
-    console.log(x, y);
+  console.log(x, y);
 }
 
-
-foo(undefined, 20)
+foo(undefined, 20);
